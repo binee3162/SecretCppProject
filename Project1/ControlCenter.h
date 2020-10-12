@@ -1,0 +1,4 @@
+#ifndef CONTROLCENTER_H
+#define CONTROLCENTER_H
+
+#endif // CONTROLCENTER_H
